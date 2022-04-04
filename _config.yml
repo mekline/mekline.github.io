@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "It's a Text File*, and Other Secrets"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : ""
+subtitle                 : ""
+name                     : "Melissa Kline Struhl"
 description              : "Personal website for Melissa Kline Struhl"
-url                      : "https://mekline.github.io"
+url                      : "https://www.melissaklinestruhl.com"
 baseurl                  : "/"
 repository               : "mekline/mekline.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -153,6 +153,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -283,7 +284,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
