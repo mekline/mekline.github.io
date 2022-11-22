@@ -24,6 +24,7 @@ So, when I got married in 2013, I changed my name legally/in personal life, but 
 Cut to 2021, I had moved to the [Center for Open Science](cos.io) after a few years of postdoctoral appointments, and was generally much less stressed about maintaining my academic 'brand'. Here's a summary of my twitter announcement: 
 
 ----
+
 * [This policy change](https://blogs.sciencemag.org/editors-blog/2021/02/18/a-new-name-change-policy/) at SciAm prompted me to realize that the reasons I had for retaining my professional name as my old legal name don't apply anymore, so hi, I'm Melissa Kline Struhl! 
 * The next time I publish something you can cite me as 'Kline Struhl, M. (20xx)'
 * When I got married 7 (!!!) years ago, I only knew one person whose CV showed a name change. I also heard people (mostly sr. women tbh) openly sharing really uncomplimentary views on women who changed their name. And I was worried I'd kill whatever academic identity I was building.
@@ -32,7 +33,8 @@ Cut to 2021, I had moved to the [Center for Open Science](cos.io) after a few ye
 * At the same time, if you decide academia and the all-powerful citation only work right for people who don't change your name, you're throwing up a pointless barrier that will hit some pretty specific groups of people at higher rates than others.
 * As that article points out, name changes in science are getting easier largely thanks to pressure from the trans community, so I'm very grateful for that activism. There are lots of reasons people change their names, and we'll all benefit from this.
 * Now I have to figure out how to change twitter handles, orcid etc., so anyone got any tips?
-* BTW, I am not personally concerned about backwards compatibility. If you cite any of my existing work, my primary desire is for you to include the DOI in your citation!
+* Side note, I am not personally concerned about backwards compatibility. If you cite any of my existing work, my primary desire is for you to include the DOI in your citation!
+
 ----
 
 To expand on the third bullet, by FAR the strongest pushback I have heard on name changes is from women more senior than myself. In grad school, I heard tenured women flat out say changing your name meant you weren't "serious" & didn't care about their publication record. To these people: If you kept your name, and if that was hard to do, I'm PROUD OF YOU. Please do other women the courtesy of respecting our choices, rather than implying we're letting down the sisterhood. 
