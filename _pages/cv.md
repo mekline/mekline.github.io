@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+permalink: /cv/
 ---
 
 <p><br> This resume was last updated on 2022-01-31.</p>
